@@ -6,12 +6,12 @@
 
 <p align="center">Índice<br>
 <a href="#sobre">Sobre</a> •
-<a href="#Tecnologias">Tecnologias</a> •
+<a href="#Tecnologias--">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
 
 <h1 align="center">Sobre o Projeto</h1>
 
-<h4>Sistema de Bibliotecas em debbuger no git e no GitHub</h4>
+<h4 align="center">Sistema de Bibliotecas em debbuger no git e no GitHub</h4>
 
 <br>
 
