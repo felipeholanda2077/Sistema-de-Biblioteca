@@ -3,10 +3,11 @@
       <img alt="Felipe Holanda" src="https://img.shields.io/badge/-Felipe Holanda-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
 </p>
-<p aling="center">Esse projeto...</p>
+
+<p align="center">Esse projeto...
 <a href="#sobre">Sobre</a> •
 <a href="#Tecnologias">Tecnologias</a> •
-<a href="#Ferramentas">Ferramentas</a>
+<a href="#Ferramentas">Ferramentas</a></p>
 
 # Sobre o Projeto
 
@@ -31,5 +32,5 @@
  
 <br>
 
-  Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)
+  <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
 
